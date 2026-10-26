@@ -1,0 +1,6 @@
+Vessel category,Before daily average,After daily average,Change (%),T-statistic,P-value
+Container,11.8833,0.5333,-95.5119,-15.2492,0.0
+Dry Bulk,11.4167,1.9,-83.3577,-15.4912,0.0
+General Cargo,4.9,0.6,-87.7551,-13.1975,0.0
+Roll-on/roll-off,2.75,0.0,-100.0,-14.0691,0.0
+Tanker,37.1167,2.0,-94.6116,-22.5984,0.0
