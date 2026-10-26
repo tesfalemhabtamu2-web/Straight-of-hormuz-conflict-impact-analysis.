@@ -58,4 +58,17 @@ Addis Ababa University
 8. Project Status
 
 Initial oil price analysis completed. Further work will explore shipping activity, maritime trade, and potential supply chain implications.
+ 9. Data Visualizations
+
+#Brent Crude Oil Prices Over Time
+
+![Brent crude oil price trend](brent_oil_price_chart.png)
+
+Average Oil Prices Before and After the Selected Event
+
+![Comparison of average Brent crude oil prices](brent_oil_price_comparison.png)
+
+The line chart illustrates daily Brent crude oil price movements. The bar chart compares average prices in the selected 60-calendar-day periods before and after February 28, 2026.
+
+These visualizations show descriptive price differences. They do not establish that the conflict caused the observed increase.
 
