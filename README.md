@@ -168,3 +168,11 @@ All five test statistics were strongly negative, indicating lower average record
 Results file: [Maritime statistical test results](maritime_statistical_test_results.csv)
 
 Interpretation and limitations: These findings indicate a substantial reduction in recorded vessel arrivals in the selected dataset. However, AIS disruptions, GPS interference, vessels switching off tracking systems, and the statistical dependence of daily observations may affect the results. The tests do not establish that the conflict alone caused the observed declines. Further analysis using methods appropriate for daily time-series and count data would strengthen the conclusions.
+
+
+Daily Vessel Arrivals Over Time
+
+The chart below shows daily recorded vessel arrivals across the study period, with the selected event date marked for reference.
+
+![Daily recorded vessel arrivals time-series chart](daily_vessel_arrivals_timeseries.png)
+
