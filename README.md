@@ -104,6 +104,38 @@ Data Files
 - `ship_arrivals_comparison.png`: Comparison chart for the five vessel categories.
 
 
-#### Reported Vessel Arrivals: Before vs. After the Event
+Reported Vessel Arrivals: Before vs. After the Event
 
 ![Comparison of reported vessel arrivals before and after the February 28, 2026 event](vessel_arrivals_comparison.png)
+
+Key Findings
+
+1. Global Oil Prices
+
+The comparison of Brent crude oil prices over the 60-day periods before and after February 28, 2026, showed an increase in the average price from **$68.37 to $109.52 per barrel**, representing a rise of approximately 60.19%
+
+2. Reported Maritime Activity
+
+The average daily number of reported vessel arrivals across the five categories declined from approximately **68.07 to 5.03**, a decrease of about **92.61%**.
+
+The largest recorded declines were in roll-on/roll-off vessels, container ships, and tankers. These results indicate a substantial reduction in recorded maritime activity during the selected post-event period.
+
+3. Estimated Cargo Volume
+
+The estimated cargo volume data also showed substantial declines across the five vessel categories. Tankers and container ships experienced particularly large reductions in the available data.
+
+These estimates provide additional evidence of changes in maritime activity, but they should not be interpreted as direct measurements of official trade or customs volumes.
+
+Limitations of the Study
+
+1. Short observation period:** The analysis compares two 60-day windows and may not capture longer-term effects.
+2. Causality:** A before-and-after comparison cannot establish that the conflict alone caused the observed changes. Other economic, political, and market factors may have contributed.
+3. AIS data reliability:** GPS jamming, AIS spoofing, and vessels switching off tracking systems may affect the accuracy of recorded vessel movements.
+4. Estimated cargo volume:** Cargo estimates are not equivalent to verified customs records or actual delivered cargo.
+5. Data coverage:** Results depend on the completeness, accuracy, and definitions of the downloaded datasets.
+
+Conclusion
+
+The preliminary findings show that the period following February 28, 2026, was associated with higher average Brent crude oil prices and substantially lower recorded maritime activity in the selected Strait of Hormuz datasets. The findings highlight the importance of this strategic chokepoint to energy markets and maritime supply chains.
+
+Further research using longer observation periods, additional control variables, and more robust statistical methods is needed before drawing strong conclusions about the causal impact of the conflict.
