@@ -1,0 +1,11 @@
+Indicator,Category,Before average,After average,Change (%)
+Reported vessel transits,Container,11.88,0.53,-95.51
+Reported vessel transits,Dry Bulk,11.42,1.9,-83.36
+Reported vessel transits,General Cargo,4.9,0.6,-87.76
+Reported vessel transits,Roll-on/roll-off,2.75,0.0,-100.0
+Reported vessel transits,Tanker,37.12,2.0,-94.61
+Estimated cargo volume,Container,339915.43,13022.6,-96.17
+Estimated cargo volume,Dry Bulk,454424.57,56853.3,-87.49
+Estimated cargo volume,General Cargo,22254.95,1490.37,-93.3
+Estimated cargo volume,Roll-on/roll-off,5225.57,0.0,-100.0
+Estimated cargo volume,Tanker,1710896.67,52693.05,-96.92
