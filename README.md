@@ -1,6 +1,3 @@
-# Strait-of-hormuz-conflict-impact-analysis.
-
-
 # Strait of Hormuz Conflict Impact Analysis
 
 Strait of Hormuz Conflict Impact Analysis
