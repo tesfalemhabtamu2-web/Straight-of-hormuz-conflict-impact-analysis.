@@ -69,7 +69,10 @@ The line chart illustrates daily Brent crude oil price movements. The bar chart 
 
 These visualizations show descriptive price differences. They do not establish that the conflict caused the observed increase.
 
-### Preliminary Maritime Shipping Findings
+
+10. Maritime Shipping Analysis
+
+Preliminary Findings
 
 The preliminary analysis of IMF PortWatch data shows a substantial decrease in reported daily ship arrivals across five vessel categories in the 60-day period following February 28, 2026. The combined daily average decreased from 68.07 before the selected event to 5.03 afterward, representing an approximate decline of 92.61%.
 
@@ -77,6 +80,16 @@ The largest percentage decreases were observed in roll-on/roll-off vessels (100%
 
 However, the findings should be interpreted cautiously. PortWatch uses AIS-based vessel tracking, which can be affected by signal interruptions, GPS interference, spoofing, and vessels not transmitting. The before-and-after comparison also does not establish that the conflict alone caused the observed decline.
 
-**Source:** IMF PortWatch, Strait of Hormuz monitoring dashboard.  
-**Method:** Comparison of average daily reported vessel counts across two 60-calendar-day periods surrounding February 28, 2026.
+Data source: IMF PortWatch, Strait of Hormuz monitoring dashboard.
+
+Method:** Comparison of average daily reported vessel counts across two 60-calendar-day periods surrounding February 28, 2026.
+
+Visualization
+
+![Average daily ship arrivals before and after the selected event](ship_arrivals_comparison.png)
+
+Data Files
+
+- `ship_arrivals_comparison.csv`: Summary of daily average vessel counts and percentage changes.
+- `ship_arrivals_comparison.png`: Comparison chart for the five vessel categories.
 
