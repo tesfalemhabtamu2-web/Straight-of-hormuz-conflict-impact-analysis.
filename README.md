@@ -3,55 +3,59 @@
 
 # Strait of Hormuz Conflict Impact Analysis
 
-## 1. Project Overview
+Strait of Hormuz Conflict Impact Analysis
 
-This project investigates the potential effects of geopolitical conflict around the Strait of Hormuz on global oil prices, maritime shipping activity, and international supply chains.
+1. Project Overview
 
-The study uses publicly available secondary data and Python to examine changes before and after the conflict event.
+This research project examines changes in Brent crude oil prices around the geopolitical conflict event dated February 28, 2026. It uses Python and publicly available oil price data to explore possible implications for global energy markets and supply chains.
 
-## 2. Research Objectives
+2. Research Objectives
 
-1. Analyze changes in Brent crude oil prices around the conflict.
-2. Examine changes in maritime shipping activity through the Strait of Hormuz.
-3. Investigate potential implications for international trade and supply chains.
-4. Develop evidence-based insights using quantitative analysis.
+- Analyze Brent crude oil price trends before and after the selected event date.
+- Compare average oil prices across two periods.
+- Develop practical skills in Python, data analysis, and research visualization.
+- Establish a foundation for further research on maritime trade and supply chain disruptions.
 
-## 3. Research Questions
+3. Preliminary Findings
 
-- How did Brent crude oil prices change around the conflict?
-- How did maritime shipping activity change?
-- What evidence indicates disruption to global supply chains?
+The initial analysis found the following average prices:
 
-## 4. Data Sources
+Measure| Result
+Average price before the event| $68.37 per barrel
+Average price after the event| $109.52 per barrel
+Difference| $41.15 per barrel
+Percentage difference| 60.19%
 
-- FRED / U.S. Energy Information Administration: Brent crude oil prices
-- IMF PortWatch: Maritime shipping activity
-- International Energy Agency: Energy and shipping analysis
-- World Trade Organization: Trade-related indicators
+These are preliminary descriptive results based on the selected periods. They do not prove that the conflict caused the price increase. Other market conditions may also have influenced oil prices.
 
-## 5. Tools and Methods
+4. Data and Tools
 
-- Python
-- pandas
-- Matplotlib
-- Descriptive statistics
-- Event-window comparisons
-- Regression analysis, where appropriate
+- Data source: Brent crude oil price series accessed through FRED, sourced from the U.S. Energy Information Administration.
+- Programming language: Python
+- Tools: Google Colab, pandas, and Matplotlib
+- Data format: CSV
+- Visualization: Brent crude oil price chart
 
-## 6. Project Status
+5. Repository Contents
 
-Currently setting up the research environment and collecting data.
+- "01_brent_oil_price_analysis.ipynb": Initial analysis and visualization.
+- "02_oil_price_reliability_check.ipynb": Statistical summaries and reliability checks.
+- "brent_oil_prices.csv": Oil price dataset.
+- "brent_oil_price_chart.png": Saved oil price chart.
 
-## 7. Research Limitations
+Note: Update the filenames above if your actual repository uses different names or folders.
 
-The analysis will distinguish observed changes from causal effects.
-Other economic, political, and market factors may influence the results.
+6. Limitations
 
-## 8. Researcher
+This project uses a before-and-after comparison. It does not establish causation, account for all external market influences, or independently measure shipping activity through the Strait of Hormuz. Further analysis is required.
+
+7. Researcher
 
 Tesfalem Habtamu
+Logistics and Supply Chain Management
+Addis Ababa University
 
-## 9. Reproducibility
+8. Project Status
 
-Data sources, analytical code, methods, and findings will be documented
-so that other researchers can understand and reproduce the analysis.
+Initial oil price analysis completed. Further work will explore shipping activity, maritime trade, and potential supply chain implications.
+
