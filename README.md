@@ -88,6 +88,16 @@ Visualization
 
 ![Average daily ship arrivals before and after the selected event](ship_arrivals_comparison.png)
 
+11.  Combined Maritime Shipping and Cargo Analysis
+
+This analysis compares reported vessel arrivals and estimated cargo volume during the 60 days before and after February 28, 2026, the selected event date.
+
+The combined dataset presents average daily values for five vessel categories: container ships, dry bulk carriers, general cargo ships, roll-on/roll-off vessels, and tankers. It helps compare changes in recorded maritime activity and estimated cargo movement following the event.
+
+ [Download the combined Hormuz analysis](combined_hormuz_summary.csv)
+
+The results describe changes in the available data and do not, by themselves, establish that the conflict caused every observed change. AIS signal disruptions, GPS jamming, spoofing, and vessels switching off tracking systems may affect recorded vessel movements. Estimated cargo volume should also be interpreted as an estimate rather than official customs trade data.
+
 Data Files
 
 - `ship_arrivals_comparison.csv`: Summary of daily average vessel counts and percentage changes.
