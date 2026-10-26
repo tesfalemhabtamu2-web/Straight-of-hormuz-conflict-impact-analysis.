@@ -103,3 +103,7 @@ Data Files
 - `ship_arrivals_comparison.csv`: Summary of daily average vessel counts and percentage changes.
 - `ship_arrivals_comparison.png`: Comparison chart for the five vessel categories.
 
+
+#### Reported Vessel Arrivals: Before vs. After the Event
+
+![Comparison of reported vessel arrivals before and after the February 28, 2026 event](vessel_arrivals_comparison.png)
