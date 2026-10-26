@@ -139,3 +139,14 @@ Conclusion
 The preliminary findings show that the period following February 28, 2026, was associated with higher average Brent crude oil prices and substantially lower recorded maritime activity in the selected Strait of Hormuz datasets. The findings highlight the importance of this strategic chokepoint to energy markets and maritime supply chains.
 
 Further research using longer observation periods, additional control variables, and more robust statistical methods is needed before drawing strong conclusions about the causal impact of the conflict.
+
+
+### Statistical Test of Brent Oil Prices
+
+A Welch's independent-samples t-test was conducted to compare daily Brent crude oil prices during the 60 calendar days before and after February 28, 2026.
+
+The average price increased from $68.37 per barrel before the selected event date (43 observations) to $109.52 per barrel afterward (41 observations), representing an increase of approximately 60.19%.
+
+The test produced a t-statistic of 18.678 and a p-value of 8.82 × 10⁻²³. The difference was statistically significant at the 5% level.
+
+These results provide strong evidence that average Brent prices differed between the selected periods. However, the test does not establish that the conflict alone caused the increase. Because daily prices may be correlated over time, further analysis using methods appropriate for time-series data is recommended.
